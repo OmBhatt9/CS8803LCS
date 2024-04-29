@@ -1,5 +1,5 @@
 # An Optimized k-SAT Solver Using DPLL
-### CS 8803 LCS, Fall 2023
+### CS 8803 Logic in Computer Science, Fall 2023
 
 This repository contains an implementation of the DPLL (Davis–Putnam–Logemann–Loveland) algorithm designed to decide the satisfiability of [CNF](https://en.wikipedia.org/wiki/Conjunctive_normal_form) formulae.
 
